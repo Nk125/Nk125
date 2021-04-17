@@ -8,6 +8,6 @@
 
 - **Send a E-Mail or Twitter DM to me if you want to work on something bat-or-html related** and with the enough time i can help you.
 
-- Can view my other work on my [Twitter](https://twitter.com/NeKes125), [Reddit](https://www.reddit.com/user/RealNk125) and [StackOverflow Account](https://stackoverflow.com/users/15180180/nk125)
+- You can view my other work on my [Twitter](https://twitter.com/NeKes125), [Reddit](https://www.reddit.com/user/RealNk125) and [StackOverflow Account](https://stackoverflow.com/users/15180180/nk125)
 
 See you later
