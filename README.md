@@ -1,6 +1,6 @@
 ## Introduction
 
-- Hello, I'm NK125, I'm currently working on PHP websites
+- Hello, I'm NK125, I'm currently working on PHP websites and C++ projects
 
 - I have knowledges on bat, HTML, CSS, PHP and C++
 
