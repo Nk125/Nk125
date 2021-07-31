@@ -1,6 +1,6 @@
 ## Introduction
 
-- Hello, i'm NK125, I currently working on advanced CMD batch scripts
+- Hello, I'm NK125, I'm currently working on PHP websites
 
 - I have knowledges on bat, HTML, CSS, PHP and C++
 
