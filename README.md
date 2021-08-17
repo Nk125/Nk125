@@ -12,5 +12,5 @@
 
 See you later
 
-![nk125-stats](https://github-readme-stats.vercel.app/api?username=Nk125&show_icons=true "Stats")
-![most-used-languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nk125&layout=compact "Languages")
+![nk125-stats](https://github-readme-stats.vercel.app/api?username=Nk125&show_icons=true&theme=dark "Stats")
+![most-used-languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nk125&layout=compact&theme=dark "Languages")
