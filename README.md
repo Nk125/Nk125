@@ -2,7 +2,7 @@
 
 - Hello, I'm NK125, I'm currently working on PHP websites and C++ projects
 
-- I have knowledges on bat, HTML, CSS, PHP and C++
+- I have knowledges on bat, HTML, CSS, PHP, C++ and SQL
 
 - Currently I talk spanish and english, some scripts are written on english and others on spanish
 
