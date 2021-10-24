@@ -4,6 +4,8 @@
 
 - I have knowledges on bat, HTML, CSS, PHP, C++ and SQL
 
+- I also have minor knowledges on JavaScript and Python
+
 - Currently I talk spanish and english, some scripts are written on english and others on spanish
 
 - **Send an E-Mail or Twitter/Discord DM to me if you want to work on something bat-HTML/PHP-or-C++ related** and with the enough time I can help you.
