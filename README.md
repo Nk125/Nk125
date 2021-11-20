@@ -14,6 +14,6 @@
 
 See you later
 
-![nk125-stats](https://github-readme-stats.vercel.app/api?username=Nk125&show_icons=true&theme=dark "Stats") ![most-used-languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nk125&layout=compact&theme=dark "Languages")
+![nk125-stats](https://github-readme-stats.vercel.app/api?username=Nk125&show_icons=true&theme=dark "Stats") ![stack-overflow-acc](https://es.stackoverflow.com/users/flair/218722.png?theme=dark)
 
-![stack-overflow-acc](https://es.stackoverflow.com/users/flair/218722.png?theme=dark)
+![most-used-languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nk125&layout=compact&theme=dark "Languages")
