@@ -1,5 +1,3 @@
-![stack-overflow-acc](https://es.stackoverflow.com/users/flair/218722.png?theme=dark)
-
 ## Introduction
 
 - Hello, I'm NK125, I'm currently working on PHP websites and in projects of C++
@@ -14,7 +12,7 @@
 
 - You can view my other work on my [Twitter](https://twitter.com/NeKes125), [Reddit](https://www.reddit.com/user/RealNk125) and [StackOverflow Account](https://stackoverflow.com/users/15180180/nk125)
 
-<div align="center"><img src="https://komarev.com/ghpvc/?username=NK125" alt="Visitors"></div>
+<div align="center"><img src="https://komarev.com/ghpvc/?username=NK125&label=Posibles+Skidders+owo" alt="Visitors"></div>
 
 See you later
 
@@ -30,4 +28,8 @@ See you later
 
 ![nk125-stats](https://github-readme-stats.vercel.app/api?username=Nk125&show_icons=true&theme=dark "Stats")
 
+![stack-overflow-acc](https://es.stackoverflow.com/users/flair/218722.png?theme=dark)
+
 ![most-used-languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nk125&layout=compact&theme=dark "Languages")
+
+![](https://hit.yhype.me/github/profile?user_id=73507947)
