@@ -1,3 +1,5 @@
+<div align="center"><img src="https://komarev.com/ghpvc/?username=NK125" alt="Visitors"></div>
+
 ## Introduction
 
 - Hello, I'm NK125, I'm currently working on PHP websites and in projects of C++
@@ -19,5 +21,3 @@ See you later
 ![stack-overflow-acc](https://es.stackoverflow.com/users/flair/218722.png?theme=dark)
 
 ![most-used-languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nk125&layout=compact&theme=dark "Languages")
-
-![visitors](https://komarev.com/ghpvc/?username=NK125 "Visits")
