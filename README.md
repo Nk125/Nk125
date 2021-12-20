@@ -10,7 +10,7 @@
 
 - **Send an E-Mail or Twitter/Discord DM to me if you want to work on something related to my knowledges** and with the enough time I can help you.
 
-- You can view my other work on my [Twitter](https://twitter.com/NeKes125), [Reddit](https://www.reddit.com/user/RealNk125) and [StackOverflow Account](https://stackoverflow.com/users/15180180/nk125)
+- You can view my other work on my [![Twitter](https://img.shields.io/twitter/follow/tm_bt_?style=social)](https://twitter.com/tm_bt_), [Reddit](https://www.reddit.com/user/RealNk125) and [StackOverflow Account](https://stackoverflow.com/users/15180180/nk125)
 
 <div align="center"><img src="https://komarev.com/ghpvc/?username=NK125&label=Posibles+Skidders+owo" alt="Visitors"></div>
 
@@ -28,8 +28,12 @@ See you later
 
 ![nk125-stats](https://github-readme-stats.vercel.app/api?username=Nk125&show_icons=true&theme=dark "Stats")
 
-![stack-overflow-acc](https://es.stackoverflow.com/users/flair/218722.png?theme=dark)
+[![stack-overflow-acc](https://es.stackoverflow.com/users/flair/218722.png?theme=dark)](https://es.stackoverflow.com/users/218722/nk125)
 
 ![most-used-languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nk125&layout=compact&theme=dark "Languages")
+
+[![btc](https://img.shields.io/keybase/btc/NK125?label=BTC%20Address&style=flat-square)](bitcoin:bc1qzkukywzq58tkyjd5a5vk5u8pjmfsfn7dtex9v9?amount=0.00002127)
+
+[![web](https://img.shields.io/website?label=my%20website:%20nekesweb.cf&style=for-the-badge&url=https://nekesweb.cf)](https://nekesweb.cf)
 
 ![](https://hit.yhype.me/github/profile?user_id=73507947)
