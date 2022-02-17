@@ -34,6 +34,8 @@ See you later
 
 [![btc](https://img.shields.io/keybase/btc/NK125?label=BTC%20Address&style=flat-square)](bitcoin:bc1qzkukywzq58tkyjd5a5vk5u8pjmfsfn7dtex9v9?amount=0.00002127)
 
+Monero Wallet: 4B1inVHuChYSeyHkbP8Pg54FDtNweq4r63BDxbLNNv8hYxBUtd9ZnJCBGV23Gmgbys35AdotbjUDtAyGNEmujN9h2U9v4Kq
+
 [![web](https://img.shields.io/website?label=my%20website:%20nekesweb.cf&style=for-the-badge&url=https://nekesweb.cf)](https://nekesweb.cf)
 
 ![](https://hit.yhype.me/github/profile?user_id=73507947)
