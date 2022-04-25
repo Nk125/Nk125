@@ -12,7 +12,7 @@
 
 - You can view my other work on my [Twitter](https://twitter.com/tm_bt_), [Reddit](https://www.reddit.com/user/RealNk125), [Keybase](https://keybase.io/NK125), and [StackOverflow Account](https://stackoverflow.com/users/15180180/nk125)
 
-<div align="center"><img src="https://komarev.com/ghpvc/?username=NK125&label=Posibles+Skidders+owo" alt="Visitors"></div>
+<div align="center"><img src="https://komarev.com/ghpvc/?username=NK125&label=Vistas" alt="Visitors"></div>
 
 See you later
 
