@@ -14,6 +14,10 @@
 
 <div align="center"><img src="https://komarev.com/ghpvc/?username=NK125&label=Vistas" alt="Visitors"></div>
 
+- Views streak:
+- + 666 views reached at 27/05/22
+- + + <a href="https://imgur.com/335MpHK"><img src="https://i.imgur.com/335MpHK.png" title="666 streak" /></a>
+
 See you later
 
 <a href="#"><img class="img" style="width: 8%; height: 8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-line.svg" title="C++"></a>
