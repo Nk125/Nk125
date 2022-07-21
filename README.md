@@ -10,7 +10,7 @@
 
 - **Send an E-Mail or Twitter/Discord DM to me if you want to work on something related to my knowledges** and with the enough time I can help you.
 
-- You can view my other work on my [Twitter](https://twitter.com/tm_bt_), [Reddit](https://www.reddit.com/user/RealNk125), [Keybase](https://keybase.io/NK125), and [StackOverflow Account](https://stackoverflow.com/users/15180180/nk125)
+- You can view my other work on my [Twitter](https://twitter.com/tm_bt_), [Reddit](https://www.reddit.com/user/RealNk125), [Keybase](https://keybase.io/NK125), [StackOverflow Account](https://stackoverflow.com/users/15180180/nk125), and Discord (Nekes#1632)
 
 <div align="center"><img src="https://komarev.com/ghpvc/?username=NK125&label=Vistas" alt="Visitors"></div>
 
