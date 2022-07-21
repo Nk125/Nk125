@@ -1,20 +1,20 @@
 ## Introduction
 
-- Hello, I'm NK125, I'm currently working on PHP websites and in projects of C++
+- Greetings!, I'm Nekes and I work on PHP websites and in projects of C++ mostly
 
-- I have knowledges on bat, HTML, CSS, PHP, C++ and SQL
+- I know about batch ([the thingy of cmd called a language](https://www.quora.com/Is-batch-DOS-considered-a-high-level-programming-language-when-used-in-a-program-not-single-line)), HTML, CSS, PHP, C++ and SQL
 
-- I also have minor knowledges on JavaScript, Python and Apache Webservers
+- Also I have minor knowledges in Python, Javascript and Apache Server Management
 
-- Currently I talk spanish and english, some scripts/sources are written on english and others on spanish
+- The idioms I dominate are english and spanish, also some very little russian bc why not
 
-- **Send an E-Mail or Twitter/Discord DM to me if you want to work on something related to my knowledges** and with the enough time I can help you.
+- I'm open to ideas, specially involved in C++, you can contact me by [email](mailto:nekes125@outlook.com), discord/twitter dm, among others. 
 
-- You can view my other work on my [Twitter](https://twitter.com/tm_bt_), [Reddit](https://www.reddit.com/user/RealNk125), [Keybase](https://keybase.io/NK125), [StackOverflow Account](https://stackoverflow.com/users/15180180/nk125), and Discord (Nekes#1632)
+- Check out my accounts in other social networks [Twitter](https://twitter.com/tm_bt_), [Reddit](https://www.reddit.com/user/RealNk125), [Keybase](https://keybase.io/NK125), [StackOverflow](https://stackoverflow.com/users/15180180/nk125), and Discord (Nekes#1632)
 
 <div align="center"><img src="https://komarev.com/ghpvc/?username=NK125&label=Vistas" alt="Visitors"></div>
 
-See you later
+See you later!!
 
 <a href="#"><img class="img" style="width: 8%; height: 8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-line.svg" title="C++"></a>
 <a href="#"><img class="img" style="width: 8%; height: 8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" title="Batch"></a>
@@ -37,8 +37,6 @@ Learning:
 ![most-used-languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nk125&layout=compact&theme=dark "Languages")
 
 [![btc](https://img.shields.io/keybase/btc/NK125?label=BTC%20Address&style=flat-square)](bitcoin:bc1qzkukywzq58tkyjd5a5vk5u8pjmfsfn7dtex9v9?amount=0.00002127)
-
-Monero Wallet: 4B1inVHuChYSeyHkbP8Pg54FDtNweq4r63BDxbLNNv8hYxBUtd9ZnJCBGV23Gmgbys35AdotbjUDtAyGNEmujN9h2U9v4Kq
 
 [![web](https://img.shields.io/website?label=my%20website:%20nekesweb.cf&style=for-the-badge&url=https://nekesweb.cf)](https://nekesweb.cf)
 
