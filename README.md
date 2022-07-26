@@ -6,7 +6,7 @@
 
 - Also I have minor knowledges in Python, Javascript and Apache Server Management
 
-- The idioms I dominate are english and spanish, also some very little russian bc why not
+- The languages I dominate are english and spanish, also a bit russian bc why not
 
 - I'm open to ideas, specially involved in C++, you can contact me by [email](mailto:nekes125@outlook.com), discord/twitter dm, among others. 
 
