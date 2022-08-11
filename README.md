@@ -26,10 +26,6 @@ See you later!!
 <a href="#"><img class="img" style="width: 8%; height: 8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" title="CSS"></a>
 <a href="#"><img class="img" style="width: 8%; height: 8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" title="MarkDown"></a>
 
-Learning:
-
-<a href="#"><img class="img" style="width: 8%; height: 8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" title="Go"></a>
-
 ![nk125-stats](https://github-readme-stats.vercel.app/api?username=Nk125&show_icons=true&theme=dark "Stats")
 
 [![stack-overflow-acc](https://es.stackoverflow.com/users/flair/218722.png?theme=dark)](https://es.stackoverflow.com/users/218722/nk125)
