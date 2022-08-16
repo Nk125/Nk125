@@ -8,7 +8,7 @@
 
 - The languages I dominate are english and spanish, also a bit russian bc why not
 
-- I'm open to ideas, specially involved in C++, you can contact me by [email](mailto:nekes125@outlook.com), discord/twitter dm, among others. 
+- I'm open to ideas, specially involved in C++, you can contact me by [email](mailto:nekes125@outlook.com), [my other email](mailto:nekes@riseup.net), discord/twitter dm, among others. 
 
 - Check out my accounts in other social networks [Twitter](https://twitter.com/tm_bt_), [Reddit](https://www.reddit.com/user/RealNk125), [Keybase](https://keybase.io/NK125), [StackOverflow](https://stackoverflow.com/users/15180180/nk125), and Discord (Nekes#1632)
 
