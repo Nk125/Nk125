@@ -32,8 +32,5 @@ See you later!!
 
 ![most-used-languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nk125&layout=compact&theme=dark "Languages")
 
-[![btc](https://img.shields.io/keybase/btc/NK125?label=BTC%20Address&style=flat-square)](bitcoin:bc1qzkukywzq58tkyjd5a5vk5u8pjmfsfn7dtex9v9?amount=0.00002127)
-
-[![web](https://img.shields.io/website?label=my%20website:%20nekesweb.cf&style=for-the-badge&url=https://nekesweb.cf)](https://nekesweb.cf)
-
+![LTC](https://img.shields.io/badge/ltc1q30hgwcazy299kxpy774602y4zfz96natqq7gu8-LTC?style=flat-square&logo=litecoin&logoColor=yellow&label=Litecoin%20Address&labelColor=2D3033&color=693E5F&link=https%3A%2F%2Flitecoinblockexplorer.net%2Faddress%2Fltc1q30hgwcazy299kxpy774602y4zfz96natqq7gu8 "Litecoin Address")
 ![](https://hit.yhype.me/github/profile?user_id=73507947)
