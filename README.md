@@ -27,10 +27,14 @@ See you later!!
 <a href="#"><img class="img" style="width: 8%; height: 8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" title="MarkDown"></a>
 
 ![nk125-stats](https://github-readme-stats.vercel.app/api?username=Nk125&show_icons=true&theme=dark "Stats")
+![most-used-languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nk125&layout=compact&theme=dark "Languages")
 
 [![stack-overflow-acc](https://es.stackoverflow.com/users/flair/218722.png?theme=dark)](https://es.stackoverflow.com/users/218722/nk125)
 
-![most-used-languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nk125&layout=compact&theme=dark "Languages")
+![BTC](https://img.shields.io/badge/bc1q6xxa5uud2mq3ljx36ee2xlvaelclku4w5e5zru-BTC?style=flat-square&logo=bitcoin&logoColor=gold&label=My%20Bitcoin%20Address&labelColor=2D3033&color=A3F540&link=https%3A%2F%2Fwww.blockchain.com%2Fexplorer%2Faddresses%2Fbtc%2Fbc1q6xxa5uud2mq3ljx36ee2xlvaelclku4w5e5zru "Bitcoin Address")
 
-![LTC](https://img.shields.io/badge/ltc1q30hgwcazy299kxpy774602y4zfz96natqq7gu8-LTC?style=flat-square&logo=litecoin&logoColor=yellow&label=Litecoin%20Address&labelColor=2D3033&color=693E5F&link=https%3A%2F%2Flitecoinblockexplorer.net%2Faddress%2Fltc1q30hgwcazy299kxpy774602y4zfz96natqq7gu8 "Litecoin Address")
+![XMR](https://img.shields.io/badge/44UAEo9ExUv33Asc92LKo95PZGfCArX2rN96Q27f8UvgVMTyNruNcewgmgpiKuyYZW7ZczCsr8n9QSvPuEeynnx2SnTMENj-XMR?style=flat-square&logo=monero&logoColor=gold&label=My%20Monero%20Address&labelColor=2D3033&color=ED182A "Monero Address")
+
+![LTC](https://img.shields.io/badge/ltc1q30hgwcazy299kxpy774602y4zfz96natqq7gu8-LTC?style=flat-square&logo=litecoin&logoColor=gold&label=My%20Litecoin%20Address&labelColor=2D3033&color=693E5F&link=https%3A%2F%2Flitecoinblockexplorer.net%2Faddress%2Fltc1q30hgwcazy299kxpy774602y4zfz96natqq7gu8 "Litecoin Address")
+
 ![](https://hit.yhype.me/github/profile?user_id=73507947)
