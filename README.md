@@ -10,11 +10,15 @@
 
 - I'm open to ideas, specially involved in C++, you can contact me by [email](mailto:nekes125@outlook.com), [my other email](mailto:nekes@riseup.net), discord/twitter dm, among others. 
 
+## Accounts
+
 - Check out my accounts in other social networks [Twitter](https://twitter.com/tm_bt_), [Reddit](https://www.reddit.com/user/RealNk125), [Keybase](https://keybase.io/NK125), [StackOverflow](https://stackoverflow.com/users/15180180/nk125), and Discord (@nekes_)
 
 <div align="center"><img src="https://komarev.com/ghpvc/?username=NK125&label=Vistas" alt="Visitors"></div>
 
 See you later!!
+
+## What I know
 
 <a href="#"><img class="img" style="width: 8%; height: 8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++"></a>
 <a href="#"><img class="img" style="width: 8%; height: 8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg" title="CMake"></a>
@@ -22,21 +26,49 @@ See you later!!
 <a href="#"><img class="img" style="width: 8%; height: 8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg" title="Neovim"></a>
 <a href="#"><img class="img" style="width: 8%; height: 8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" title="Apache"></a>
 <a href="#"><img class="img" style="width: 8%; height: 8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" title="PHP"></a>
-<a href="#"><img class="img" style="width: 8%; height: 8%" src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg" title="SQLite"></a>
+<a href="#"><img class="img" style="width: 8%; height: 8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" title="SQLite"></a>
 <a href="#"><img class="img" style="width: 8%; height: 8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="MySQL"></a>
 <a href="#"><img class="img" style="width: 8%; height: 8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" title="HTML"></a>
 <a href="#"><img class="img" style="width: 8%; height: 8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" title="CSS"></a>
 <a href="#"><img class="img" style="width: 8%; height: 8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" title="MarkDown"></a>
 
-![nk125-stats](https://github-readme-stats.vercel.app/api?username=Nk125&show_icons=true&theme=dark "Stats")
-![most-used-languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nk125&layout=compact&theme=dark "Languages")
+## What I'm expecting to learn this year
+
+<a href="#"><img class="img" style="width: 8%; height: 8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" title="Rust"></a>
+<a href="#"><img class="img" style="width: 8%; height: 8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker"></a>
+<a href="#"><img class="img" style="width: 8%; height: 8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" title="Svelte"></a>
+<a href="#"><img class="img" style="width: 8%; height: 8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" title="Redis"></a>
+<a href="#"><img class="img" style="width: 8%; height: 8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" title="Nginx"></a>
+
+## My stats lulz
+
+![nk125-stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nk125&show_icons=true&theme=monokai "Stats")
+![most-used-languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nk125&layout=compact&theme=monokai "Languages")
 
 [![stack-overflow-acc](https://es.stackoverflow.com/users/flair/218722.png?theme=dark)](https://es.stackoverflow.com/users/218722/nk125)
 
+## Bitcoin
+
 ![BTC](https://img.shields.io/badge/bc1q6xxa5uud2mq3ljx36ee2xlvaelclku4w5e5zru-BTC?style=flat-square&logo=bitcoin&logoColor=gold&label=My%20Bitcoin%20Address&labelColor=2D3033&color=A3F540&link=https%3A%2F%2Fwww.blockchain.com%2Fexplorer%2Faddresses%2Fbtc%2Fbc1q6xxa5uud2mq3ljx36ee2xlvaelclku4w5e5zru "Bitcoin Address")
+
+### Here to copy:
+
+#### bc1q6xxa5uud2mq3ljx36ee2xlvaelclku4w5e5zru
+
+## Monero
 
 ![XMR](https://img.shields.io/badge/44UAEo9ExUv33Asc92LKo95PZGfCArX2rN96Q27f8UvgVMTyNruNcewgmgpiKuyYZW7ZczCsr8n9QSvPuEeynnx2SnTMENj-XMR?style=flat-square&logo=monero&logoColor=gold&label=My%20Monero%20Address&labelColor=2D3033&color=ED182A "Monero Address")
 
+### Here to copy:
+
+#### 44UAEo9ExUv33Asc92LKo95PZGfCArX2rN96Q27f8UvgVMTyNruNcewgmgpiKuyYZW7ZczCsr8n9QSvPuEeynnx2SnTMENj
+
+## Litecoin
+
 ![LTC](https://img.shields.io/badge/ltc1q30hgwcazy299kxpy774602y4zfz96natqq7gu8-LTC?style=flat-square&logo=litecoin&logoColor=gold&label=My%20Litecoin%20Address&labelColor=2D3033&color=693E5F&link=https%3A%2F%2Flitecoinblockexplorer.net%2Faddress%2Fltc1q30hgwcazy299kxpy774602y4zfz96natqq7gu8 "Litecoin Address")
+
+### Here to copy:
+
+#### ltc1q30hgwcazy299kxpy774602y4zfz96natqq7gu8
 
 ![](https://hit.yhype.me/github/profile?user_id=73507947)
