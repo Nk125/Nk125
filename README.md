@@ -2,21 +2,25 @@
 
 - Greetings!, I'm Nekes and I work on PHP websites and in projects of C++ mostly
 
-- I know about batch ([the thingy of cmd called a language](https://www.quora.com/Is-batch-DOS-considered-a-high-level-programming-language-when-used-in-a-program-not-single-line)), HTML, CSS, PHP, C++ and SQL
+- I know about batch ([the thingy of cmd called a language](https://www.quora.com/Is-batch-DOS-considered-a-high-level-programming-language-when-used-in-a-program-not-single-line)), HTML, CSS, PHP, C++, SQL and all icons listed below, enjoy asking me things in my social media!
 
 - Also I have minor knowledges in Python, Javascript and Apache Server Management
 
-- The languages I dominate are english and spanish, also a bit russian bc why not
+- My knowledge extends to the elements of <a href="#what-im-expecting-to-learn-this-year">"What I'm expecting to learn"</a> section, but in a minor range of knowledge 
 
-- I'm open to ideas, specially involved in C++, you can contact me by [email](mailto:nekes125@outlook.com), [my other email](mailto:nekes@riseup.net), discord/twitter dm, among others. 
+- I speak english and spanish, my russian got rusty and I only remember how to transliterate, sry russian folks!
 
 ## Accounts
 
-- Check out my accounts in other social networks [Twitter](https://twitter.com/tm_bt_), [Reddit](https://www.reddit.com/user/RealNk125), [Keybase](https://keybase.io/NK125), [StackOverflow](https://stackoverflow.com/users/15180180/nk125), and Discord (@nekes_)
+- Check out my accounts in other social media networks [Twitter](https://twitter.com/tm_bt_), [Reddit](https://www.reddit.com/user/RealNk125), [Keybase](https://keybase.io/NK125), [StackOverflow](https://stackoverflow.com/users/15180180/nk125), and Discord (@nekes_)
+
+- You can reach me too in my emails: [email](mailto:nekes125@outlook.com), [my other email](mailto:nekes@riseup.net)
+
+- Try find me in Telegram if you want!
 
 <div align="center"><img src="https://komarev.com/ghpvc/?username=NK125&label=Vistas" alt="Visitors"></div>
 
-See you later!!
+See you later!! GL in your projects!
 
 ## What I know
 
@@ -53,7 +57,7 @@ See you later!!
 
 ### Here to copy:
 
-#### bc1q6xxa5uud2mq3ljx36ee2xlvaelclku4w5e5zru
+- #### bc1q6xxa5uud2mq3ljx36ee2xlvaelclku4w5e5zru
 
 ## Monero
 
@@ -61,7 +65,7 @@ See you later!!
 
 ### Here to copy:
 
-#### 44UAEo9ExUv33Asc92LKo95PZGfCArX2rN96Q27f8UvgVMTyNruNcewgmgpiKuyYZW7ZczCsr8n9QSvPuEeynnx2SnTMENj
+- #### 44UAEo9ExUv33Asc92LKo95PZGfCArX2rN96Q27f8UvgVMTyNruNcewgmgpiKuyYZW7ZczCsr8n9QSvPuEeynnx2SnTMENj
 
 ## Litecoin
 
@@ -69,6 +73,6 @@ See you later!!
 
 ### Here to copy:
 
-#### ltc1q30hgwcazy299kxpy774602y4zfz96natqq7gu8
+- #### ltc1q30hgwcazy299kxpy774602y4zfz96natqq7gu8
 
 ![](https://hit.yhype.me/github/profile?user_id=73507947)
