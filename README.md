@@ -43,6 +43,8 @@ See you later!! GL in your projects!
 <a href="#"><img class="img" style="width: 8%; height: 8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" title="Svelte"></a>
 <a href="#"><img class="img" style="width: 8%; height: 8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" title="Redis"></a>
 <a href="#"><img class="img" style="width: 8%; height: 8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" title="Nginx"></a>
+<a href="#"><img class="img" style="width: 8%; height: 8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/alpinejs/alpinejs-original.svg" title="Alpinejs"></a>
+  <a href="#"><img class="img" style="width: 8%; height: 8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" title="BootstrapCSS"></a>
 
 ## My stats lulz
 
