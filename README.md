@@ -12,12 +12,10 @@
 
 ## Accounts
 
-- Check out my accounts in other social media networks [Twitter](https://twitter.com/tm_bt_), [Reddit](https://www.reddit.com/user/RealNk125), [Keybase](https://keybase.io/NK125), [StackOverflow](https://stackoverflow.com/users/15180180/nk125), and Discord (@nekes_)
+- Check out my accounts in other social media networks [Twitter](https://twitter.com/tm_bt_), [Reddit](https://www.reddit.com/user/RealNk125), [Keybase](https://keybase.io/NK125), [StackOverflow](https://stackoverflow.com/users/15180180/nk125), Discord (@kif_ptr) and [Telegram](https://t.me/nekesz)!
 
 - You can reach me too in my emails: [email](mailto:nekes125@outlook.com), [my other email](mailto:nekes@riseup.net)
-
-- Try find me in Telegram if you want!
-
+  
 <div align="center"><img src="https://komarev.com/ghpvc/?username=NK125&label=Vistas" alt="Visitors"></div>
 
 See you later!! GL in your projects!
