@@ -12,7 +12,7 @@
 
 ## Accounts
 
-- Check out my accounts in other social media networks [Twitter](https://x.com/_nekes_), [Reddit](https://www.reddit.com/user/RealNk125), [Keybase](https://keybase.io/NK125), [StackOverflow](https://stackoverflow.com/users/15180180/nk125), [Spanish StackOverflow](https://es.stackoverflow.com/users/218722/nk125), Discord (@kif_ptr) and [Telegram](https://t.me/nekesz)!
+- Check out my accounts in other social media networks [Twitter](https://x.com/fakenekes), [Reddit](https://www.reddit.com/user/RealNk125), [Keybase](https://keybase.io/NK125), [StackOverflow](https://stackoverflow.com/users/15180180/nk125), [Spanish StackOverflow](https://es.stackoverflow.com/users/218722/nk125), Discord (@kif_ptr) and [Telegram](https://t.me/nekesz)!
 
 - You can reach me too in my emails: [email](mailto:nekes125@outlook.com), [my other email](mailto:nekes@riseup.net)
   
