@@ -1,6 +1,6 @@
 ## Hey!
 
-I'm Nekes, a mexican C++ developer.
+I'm Nekes, a Mexican C++ developer.
 
 [![My Coder Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nk125&show_icons=true&theme=monokai "My Coder Profile")](#)
 
