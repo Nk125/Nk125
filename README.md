@@ -8,6 +8,7 @@ I'm Nekes, a Mexican C++ developer.
 
 These are the most used languages across my github profile:
 
+[![General Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nk125&theme=monokai)](#)
 [![My preferred langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nk125&layout=compact&theme=monokai "Langs")](#)
 
 I work mostly on top of these Linux Distros:
@@ -25,6 +26,7 @@ I learnt them:
 [![HTML](https://img.shields.io/badge/HTML-%23662e1c?style=for-the-badge&logo=html5)](#)
 [![CSS](https://img.shields.io/badge/CSS-%23cd3732?style=for-the-badge&logo=css3&logoColor=%234897d8)](#)
 [![Replit](https://img.shields.io/badge/Replit-%232f2e33?style=for-the-badge&logo=replit)](https://replit.com)
+[![SQLite](https://img.shields.io/badge/SQLite-%23ffec5c?style=for-the-badge&logo=sqlite&logoColor=%2316161d)](https://www.sqlite.org)
 
 I'm learning them:
 
@@ -50,8 +52,12 @@ Here's where you can follow me!
 I'm mostly active on these social networks.
 
 [![My Reddit](https://img.shields.io/reddit/user-karma/combined/RealNk125?style=for-the-badge&logo=reddit&logoColor=white&label=My%20Reddit&labelColor=%23a43820&color=%23693d3d "Visit my reddit profile!")](https://reddit.com/u/RealNk125)
-
 [![GitHub](https://img.shields.io/github/followers/nk125?style=for-the-badge&logo=github&logoColor=white&label=This%20GitHub&labelColor=%23021c1e&color=%232c7873 "Link to this github.")](https://github.com/nk125)
+[![My Discord](https://img.shields.io/badge/%40kif__ptr-On%20Discord-%2392aac7?style=for-the-badge&logo=discord&labelColor=%232a2922)](#)
+
+[![My Twitter](https://img.shields.io/badge/My%20Twitter-%23008dcb?style=for-the-badge&logo=x&logoColor=black)](https://x.com/fakenekes)
+[![My Telegram](https://img.shields.io/badge/My%20Telegram-%235a4e4d?style=for-the-badge&logo=telegram&logoColor=%23008dcb)](https://t.me/nekesz)
+[![Email Me](https://img.shields.io/badge/Email%20Me!-%23b2dbd5?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IS0tIFVwbG9hZGVkIHRvOiBTVkcgUmVwbywgd3d3LnN2Z3JlcG8uY29tLCBHZW5lcmF0b3I6IFNWRyBSZXBvIE1peGVyIFRvb2xzIC0tPg0KPHN2ZyB3aWR0aD0iODAwcHgiIGhlaWdodD0iODAwcHgiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4NCjxwYXRoIGQ9Ik00IDkuMDAwMDVMMTAuMiAxMy42NUMxMS4yNjY3IDE0LjQ1IDEyLjczMzMgMTQuNDUgMTMuOCAxMy42NUwyMCA5IiBzdHJva2U9IiMwMDAwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8%2BDQo8cGF0aCBkPSJNMyA5LjE3NjgxQzMgOC40NTA0NyAzLjM5Mzc4IDcuNzgxMjMgNC4wMjg3MSA3LjQyODQ5TDExLjAyODcgMy41Mzk2QzExLjYzMjggMy4yMDQwMiAxMi4zNjcyIDMuMjA0MDIgMTIuOTcxMyAzLjUzOTZMMTkuOTcxMyA3LjQyODQ5QzIwLjYwNjIgNy43ODEyMyAyMSA4LjQ1MDQ3IDIxIDkuMTc2ODFWMTdDMjEgMTguMTA0NiAyMC4xMDQ2IDE5IDE5IDE5SDVDMy44OTU0MyAxOSAzIDE4LjEwNDYgMyAxN1Y5LjE3NjgxWiIgc3Ryb2tlPSIjMDAwMDAwIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPg0KPC9zdmc%2B)](mailto:nekes125@outlook.com)
 
 <details open>
 <summary><h2>Thingies</h2></summary>
