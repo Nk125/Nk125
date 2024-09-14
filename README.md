@@ -49,6 +49,8 @@ These programs are on fire! (and I recommend them):
 
 Here's where you can follow me!
 
+**(Click on them to go to the respective profile!)**
+
 I'm mostly active on these social networks.
 
 [![My Reddit](https://img.shields.io/reddit/user-karma/combined/RealNk125?style=for-the-badge&logo=reddit&logoColor=white&label=My%20Reddit&labelColor=%23a43820&color=%23693d3d "Visit my reddit profile!")](https://reddit.com/u/RealNk125)
