@@ -34,7 +34,7 @@ I'm learning them:
 [![Rust](https://img.shields.io/badge/Rust%20Lang-%23ead39c?style=for-the-badge&logo=rust&logoColor=%234b4345)](https://www.rust-lang.org/)
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-%234f6457?style=for-the-badge&logo=cloudflare)](https://cloudflare.com)
 [![Docker](https://img.shields.io/badge/Docker-%232f3131?style=for-the-badge&logo=docker)](https://www.docker.com/)
-[![Astro](https://img.shields.io/badge/Astro-151b18?style=for-the-badge&logo=astro&logoColor=ed7117)](https://kit.svelte.dev/)
+[![Astro](https://img.shields.io/badge/Astro-151b18?style=for-the-badge&logo=astro&logoColor=ed7117)](https://astro.build/)
 
 These programs are on fire! (and I recommend them):
 
