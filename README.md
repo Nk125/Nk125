@@ -50,7 +50,7 @@ Follow me here!
 
 **(Click on the images to see my profiles!)**
 
-[![My Reddit](https://img.shields.io/reddit/user-karma/combined/RealNk125?style=for -the-badge&logo=reddit&logoColor=white&label=My%20Reddit&labelColor=%23a43820&color=%23693d3d "Visit my reddit profile!")](https://reddit.com/u/RealNk125)
+[![My Reddit](https://img.shields.io/reddit/user-karma/combined/RealNk125?style=for-the-badge&logo=reddit&logoColor=white&label=My%20Reddit&labelColor=%23a43820&color=%23693d3d "Visit my reddit profile!")](https://reddit.com/u/RealNk125)
 [![GitHub](https://img.shields.io/github/followers/nk125?style=for-the-badge&logo=github&logoColor=white&label=This%20GitHub&labelColor=%23021c1e&color=%232c7873 "Link to this github.")](https://github.com/nk125)
 [![My Discord](https://img.shields.io/badge/%40kif__ptr-On%20Discord-%2392aac7?style=for-the-badge&logo=discord&labelColor=%232a2922)](#)
 
