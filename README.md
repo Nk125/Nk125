@@ -35,6 +35,7 @@ I'm learning them:
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-%234f6457?style=for-the-badge&logo=cloudflare)](https://cloudflare.com)
 [![Docker](https://img.shields.io/badge/Docker-%232f3131?style=for-the-badge&logo=docker)](https://www.docker.com/)
 [![Astro](https://img.shields.io/badge/Astro-151b18?style=for-the-badge&logo=astro&logoColor=ed7117)](https://astro.build/)
+[![NuxtJS](https://img.shields.io/badge/Nuxt-%23193945?style=for-the-badge&logo=nuxt&logoColor=%23dd5c2f)](https://nuxt.com/)
 
 My lifesavers:
 
