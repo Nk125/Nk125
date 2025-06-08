@@ -24,7 +24,7 @@ I've learned them:
 [![PHP](https://img.shields.io/badge/PHP-%2342648d?style=for-the-badge&logo=php&logoColor=%23d0e1f9)](https://php.net/)
 [![CMake](https://img.shields.io/badge/CMake-%23e8dcb2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjMDY0RjhDIiBkPSJNNjIuOC40TC4zIDEyMy44bDY4LjEtNTcuOXoiLz48cGF0aCBmaWxsPSIjMjQ5ODQ3IiBkPSJNMTIzLjggMTI3LjdsLTg0LTMzLjlMMCAxMjcuN3oiLz48cGF0aCBmaWxsPSIjQkUyMTI4IiBkPSJNMTI4IDEyNi42TDY1LjYgMi41bDkuMiAxMDIuNnoiLz48cGF0aCBmaWxsPSIjQ0RDRENFIiBkPSJNNzEuOSAxMDRsLTMuMS0zNC45TDQyIDkyeiIvPjwvc3ZnPgo%3D)](https://cmake.org)
 [![HTML](https://img.shields.io/badge/HTML-%23662e1c?style=for-the-badge&logo=html5)](#)
-[![CSS](https://img.shields.io/badge/CSS-%23cd3732?style=for-the-badge&logo=css3&logoColor=%234897d8)](#)
+[![CSS](https://img.shields.io/badge/CSS-%23cd3732?style=for-the-badge&logo=css&logoColor=%234897d8)](#)
 [![Replit](https://img.shields.io/badge/Replit-%232f2e33?style=for-the-badge&logo=replit)](https://replit.com)
 [![SQLite](https://img.shields.io/badge/SQLite-%23ffec5c?style=for-the-badge&logo=sqlite&logoColor=%2316161d)](https://www.sqlite.org)
 
