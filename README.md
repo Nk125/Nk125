@@ -4,11 +4,12 @@ I'm Nekes, a Mexican C++/Rust developer.
 
 [![My Coding Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nk125&show_icons=true&theme=monokai "My Coder Profile")](#)
 
+[![General Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nk125&theme=monokai)](#)
+
 ## Tech Stack
 
 My go-to languages:
 
-[![General Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nk125&theme=monokai)](#)
 [![Fav Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nk125&layout=compact&theme=monokai "Langs")](#)
 
 I use linux btw 🤓:
