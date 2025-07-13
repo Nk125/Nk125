@@ -4,7 +4,7 @@ I'm Nekes, a Mexican C++/Rust developer.
 
 [![My Coding Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nk125&show_icons=true&theme=monokai "My Coder Profile")](#)
 
-## Preferred Technologies
+## Tech Stack
 
 My go-to languages:
 
@@ -56,7 +56,7 @@ Follow me here!
 [![My Discord](https://img.shields.io/badge/%40nekezito-On%20Discord-%2392aac7?style=for-the-badge&logo=discord&labelColor=%232a2922)](#)
 
 [![My Twitter](https://img.shields.io/badge/My%20Twitter-%23008dcb?style=for-the-badge&logo=x&logoColor=black)](https://x.com/fakenekes)
-[![My Telegram](https://img.shields.io/badge/My%20Telegram-%235a4e4d?style=for-the-badge&logo=telegram&logoColor=%23008dcb)](https://t.me/nekesz)
+[![My Telegram](https://img.shields.io/badge/My%20Telegram-%235a4e4d?style=for-the-badge&logo=telegram&logoColor=%23008dcb)](https://t.me/nekesdev)
 [![Email Me](https://img.shields.io/badge/Email%20Me!-%23b2dbd5?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IS0tIFVwbG9hZGVkIHRvOiBTVkcgUmVwbywgd3d3LnN2Z3JlcG8uY29tLCBHZW5lcmF0b3I6IFNWRyBSZXBvIE1peGVyIFRvb2xzIC0tPg0KPHN2ZyB3aWR0aD0iODAwcHgiIGhlaWdodD0iODAwcHgiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4NCjxwYXRoIGQ9Ik00IDkuMDAwMDVMMTAuMiAxMy42NUMxMS4yNjY3IDE0LjQ1IDEyLjczMzMgMTQuNDUgMTMuOCAxMy42NUwyMCA5IiBzdHJva2U9IiMwMDAwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8%2BDQo8cGF0aCBkPSJNMyA5LjE3NjgxQzMgOC40NTA0NyAzLjM5Mzc4IDcuNzgxMjMgNC4wMjg3MSA3LjQyODQ5TDExLjAyODcgMy41Mzk2QzExLjYzMjggMy4yMDQwMiAxMi4zNjcyIDMuMjA0MDIgMTIuOTcxMyAzLjUzOTZMMTkuOTcxMyA3LjQyODQ5QzIwLjYwNjIgNy43ODEyMyAyMSA4LjQ1MDQ3IDIxIDkuMTc2ODFWMTdDMjEgMTguMTA0NiAyMC4xMDQ2IDE5IDE5IDE5SDVDMy44OTU0MyAxOSAzIDE4LjEwNDYgMyAxN1Y5LjE3NjgxWiIgc3Ryb2tlPSIjMDAwMDAwIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPg0KPC9zdmc%2B)](mailto:nekes125@outlook.com)
 
 <details open>
