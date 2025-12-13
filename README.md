@@ -2,20 +2,20 @@
 
 I'm Nekes, a Mexican C++/Rust developer.
 
-[![My Coding Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nk125&show_icons=true&theme=monokai "My Coder Profile")](#)
-
-[![General Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nk125&theme=monokai)](#)
+[![My Coding Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nk125&show_icons=true&theme=rose_pine "My Coder Profile")](#)
 
 ## Tech Stack
 
-My go-to languages:
+My preferred languages and github stats:
 
-[![Fav Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nk125&layout=compact&theme=monokai "Langs")](#)
+[![Fav Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nk125&theme=rose_pine "Langs")](#)
+[![General Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nk125&theme=rose_pine)](#)
 
 I use linux btw 🤓:
 
 [![Alpine Linux](https://img.shields.io/badge/Alpine%20Linux-%2334675c?style=for-the-badge&logo=alpinelinux)](https://alpinelinux.org)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-%23de7a22?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com)
+[![Arch Linux](https://img.shields.io/badge/Arch_Linux-_?style=for-the-badge&logo=archlinux&color=%232a2a30)](https://ubuntu.com)
 
 My life depends on these langs/techs and...
 
