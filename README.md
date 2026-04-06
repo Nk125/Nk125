@@ -14,8 +14,7 @@ My preferred languages and github stats:
 I use linux btw 🤓:
 
 [![Alpine Linux](https://img.shields.io/badge/Alpine%20Linux-%2334675c?style=for-the-badge&logo=alpinelinux)](https://alpinelinux.org)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-%23de7a22?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com)
-[![Arch Linux](https://img.shields.io/badge/Arch_Linux-_?style=for-the-badge&logo=archlinux&color=%232a2a30)](https://ubuntu.com)
+[![Arch Linux](https://img.shields.io/badge/Arch_Linux-_?style=for-the-badge&logo=archlinux&color=%232a2a30)](https://archlinux.org)
 
 My life depends on these langs/techs and...
 
