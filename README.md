@@ -25,13 +25,12 @@ I've learned them:
 [![CMake](https://img.shields.io/badge/CMake-%23e8dcb2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjMDY0RjhDIiBkPSJNNjIuOC40TC4zIDEyMy44bDY4LjEtNTcuOXoiLz48cGF0aCBmaWxsPSIjMjQ5ODQ3IiBkPSJNMTIzLjggMTI3LjdsLTg0LTMzLjlMMCAxMjcuN3oiLz48cGF0aCBmaWxsPSIjQkUyMTI4IiBkPSJNMTI4IDEyNi42TDY1LjYgMi41bDkuMiAxMDIuNnoiLz48cGF0aCBmaWxsPSIjQ0RDRENFIiBkPSJNNzEuOSAxMDRsLTMuMS0zNC45TDQyIDkyeiIvPjwvc3ZnPgo%3D)](https://cmake.org)
 [![HTML](https://img.shields.io/badge/HTML-%23662e1c?style=for-the-badge&logo=html5)](#)
 [![CSS](https://img.shields.io/badge/CSS-%23cd3732?style=for-the-badge&logo=css&logoColor=%234897d8)](#)
-[![Replit](https://img.shields.io/badge/Replit-%232f2e33?style=for-the-badge&logo=replit)](https://replit.com)
 [![SQLite](https://img.shields.io/badge/SQLite-%23ffec5c?style=for-the-badge&logo=sqlite&logoColor=%2316161d)](https://www.sqlite.org)
+[![Rust](https://img.shields.io/badge/Rust%20Lang-%23ead39c?style=for-the-badge&logo=rust&logoColor=%234b4345)](https://www.rust-lang.org/)
 
 I'm learning them:
 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%231e656d?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.posgresql.org/)
-[![Rust](https://img.shields.io/badge/Rust%20Lang-%23ead39c?style=for-the-badge&logo=rust&logoColor=%234b4345)](https://www.rust-lang.org/)
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-%234f6457?style=for-the-badge&logo=cloudflare)](https://cloudflare.com)
 [![Docker](https://img.shields.io/badge/Docker-%232f3131?style=for-the-badge&logo=docker)](https://www.docker.com/)
 [![Astro](https://img.shields.io/badge/Astro-151b18?style=for-the-badge&logo=astro&logoColor=ed7117)](https://astro.build/)
